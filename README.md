@@ -9,7 +9,7 @@ https://github.com/amit137/assign.git
 2. **Install necessary packages in the frontend:**
 
 cd frontend
-`
+<br/>
 npm install
 
 3. **Install necessary packages in the backend:**
