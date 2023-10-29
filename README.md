@@ -14,6 +14,7 @@ npm install
 3. **Install necessary packages in the backend:**
 
 cd backend
+
 npm install
 
 ## Running the Application
@@ -22,7 +23,8 @@ Now that you've installed the necessary packages, you can run your MERN applicat
 
 - **On the backend side:**
 
-cd backend
+cd backend 
+
 nodemon index.js
 
 - **On the frontend side:**
