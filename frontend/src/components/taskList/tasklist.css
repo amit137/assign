@@ -1,0 +1,12 @@
+.taskList{
+    background-color:#918d9a;
+    margin: 50px;
+    color: white;
+    width: 80vw;
+    display: flex;
+    flex-wrap: wrap;
+    height: fit-content;    
+    padding: 20px;
+    justify-content: center;
+    align-items: center;
+}
