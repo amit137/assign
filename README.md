@@ -15,7 +15,6 @@ npm install
 3. **Install necessary packages in the backend:**
 
 cd backend
-
 npm install
 
 ## Running the Application
