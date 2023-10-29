@@ -24,7 +24,7 @@ Now that you've installed the necessary packages, you can run your MERN applicat
 - **On the backend side:**
 
 cd backend 
-
+```
 nodemon index.js
 
 - **On the frontend side:**
