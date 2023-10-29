@@ -4,7 +4,7 @@ To run this project, follow these steps:
 
 1. **Clone the repository:**
 
-git clone https://github.com/amit137/assign
+https://github.com/amit137/assign.git
 
 2. **Install necessary packages in the frontend:**
 
